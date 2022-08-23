@@ -338,5 +338,5 @@ class Index(Scene):
         self.play(FadeOut(line4, line5))
         self.play(maniaclick1.animate.shift(RIGHT*3), maniaclick2.animate.shift(RIGHT*2), maniaclick3.animate.shift(RIGHT), maniaclick5.animate.shift(LEFT), maniaclick6.animate.shift(LEFT*2), maniaclick7.animate.shift(LEFT*3))
         self.play(maniaclick1.animate.shift(DOWN*3), maniaclick2.animate.shift(DOWN*3), maniaclick3.animate.shift(DOWN*3), maniaclick4.animate.shift(DOWN*3), maniaclick5.animate.shift(DOWN*3), maniaclick6.animate.shift(DOWN*3), maniaclick7.animate.shift(DOWN*3))
-        self.play(FadeIn(text))
+        self.play(Write(Text("Vận tốc", font_size=144, font="Noto Sans")))
         self.wait(3)
