@@ -1,5 +1,5 @@
 <h1 align="center">manim-velocity-study</h1>
-<p align="center">Tóm tắt nhanh về một phần Vận tốc trong 2p16s (còn lại là [osu](https://github.com/thanhgaming5550/manim-osu-fastview))</p>
+<p align="center">Tóm tắt nhanh về một phần Vận tốc trong 2p16s (còn lại là <a href="https://github.com/thanhgaming5550/manim-osu-fastview)">osu</a>)</p>
 <p align="center">Xây dựng trên <a href="https://github.com/ManimCommunity/manim">Manim Community</a></p>
 
 #### Yêu cầu: 
