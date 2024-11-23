@@ -17,6 +17,8 @@ Preview (480p@24fps):
 
 https://github.com/user-attachments/assets/e676ea59-47b6-42ae-a315-da9aff4d298c
 
+High (1080p@60fps): 
+https://youtu.be/IdCidCgFfmA
 
 
 #### Chú thích
