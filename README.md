@@ -1,4 +1,4 @@
-<h1 align="center">manim-velocity-study</h1>
+<h1 align="center">manim-velocity</h1>
 <p align="center">Tóm tắt nhanh Vận tốc trong 2p16s</p>
 <p align="center">Xây dựng trên <a href="https://github.com/ManimCommunity/manim">Manim Community</a></p>
 
